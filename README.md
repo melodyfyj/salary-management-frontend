@@ -15,9 +15,10 @@ https://user-images.githubusercontent.com/93577252/151669009-c99f95b8-e210-4974-
 
 ## Instructions
 
-1) Install missing dependencies after downloading: Run `npm install` to install node modules.
+Step 1) Install missing dependencies after downloading: Run `npm install` to install node modules.
 
-2) Choose where to host
+Step 2) Choose where to host:
+
 Option 1: Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 Option 2: If hosting on IIS, set physical path to: `..dist/salary-management` and set port number to 91. Run `npm run build` if you change any code, then restart the website in IIS.
